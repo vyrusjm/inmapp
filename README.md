@@ -1,2 +1,2 @@
 # inmapp
-For shared
+Se añade esta linea de texto al archivo README
